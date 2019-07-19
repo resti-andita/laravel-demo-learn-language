@@ -82,15 +82,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-4 sp-only">
-						<div id="fh5co-logo"><a href="index.html">Let's Begin<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="/">Let's Begin<span>.</span></a></div>
 					</div>
 					<div class="col-xs-8 text-right menu-1">
 						<ul class="sp-only">
-							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="courses.html">Courses</a></li>
-							<li><a href="pricing.html">Pricing</a></li>
+							<li class="active"><a href="/">Home</a></li>
+							<li><a href="/courses">Courses</a></li>
+							<li><a href="/pricing">Pricing</a></li>
 							<li class="has-dropdown">
-								<a href="blog.html">Blog</a>
+								<a href="/blog">Blog</a>
 								<ul class="dropdown">
 									<li><a href="#">Web Design</a></li>
 									<li><a href="#">eCommerce</a></li>
@@ -98,7 +98,7 @@
 									<li><a href="#">API</a></li>
 								</ul>
 							</li>
-							<a href="contact.html">Contact</a></li>
+							<a href="/contact">Contact</a></li>
 							<li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Create a Course</span></a></li>
