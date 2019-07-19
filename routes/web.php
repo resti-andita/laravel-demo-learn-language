@@ -14,3 +14,19 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/courses', function () {
+    return view('courses');
+});
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/pricing', function () {
+    return view('pricing');
+});
